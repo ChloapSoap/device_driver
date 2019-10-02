@@ -9,4 +9,5 @@ files for input aren't included for sake of brevity.
 Once you've downloaded the tarball, you can test the driver and cache with the following commands:
 
 $ make clean && make
+
 $ ./block_sim -v -c <cache_size> workload/cmpsc311-sum19-assign4-workload.txt
